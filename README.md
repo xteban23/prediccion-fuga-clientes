@@ -3,7 +3,7 @@
 ![Banner](https://via.placeholder.com/800x300/1a1a2e/e0e0e0?text=Predicci%C3%B3n+de+Fuga+de+Clientes+en+Marketplaces)
 
 ## Autores
-Santiago Suarez Magon, Esteban Alcardy Pacheco
+Santiago Suarez Magon - 2230077, Esteban Alcardy Pacheco - 2230070
 
 ## Objetivo
 Desarrollar un modelo de aprendizaje supervisado (clasificación) que identifique clientes con baja probabilidad de retorno basándose en su historial de compras y calificación de pedidos anteriores.
