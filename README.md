@@ -1,6 +1,6 @@
 # Modelo de Clasificación para la Predicción de Fuga de Clientes en Marketplaces
 
-![Banner](https://www.vtiger.com/wp-content/uploads/2023/08/7-uses-of-a-crm-in-retail.jpg)
+![Banner](https://www.vtiger.com/blog/wp-content/uploads/2021/01/8-Possibilities-of-CRM-that-will-Change-the-Way-1-e1609848202482-1.png)
 
 ## Autores
 Santiago Suarez Magon, Esteban Alcardy Pacheco
