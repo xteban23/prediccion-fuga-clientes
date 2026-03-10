@@ -19,5 +19,4 @@ Clasificación, Aprendizaje Supervisado, Random Forest, Regresión Logística, X
 
 ## Enlaces
 - 📂 **Código**: _[https://colab.research.google.com/drive/1e5QQs63sUL82r9gU0xu7wJj7YmX0TrKp?usp=sharing]_
-- 🎥 **Video**: _[Agregar enlace al video]_
 - 🗂️ **Repositorio**: _[https://github.com/xteban23/prediccion-fuga-clientes]_
