@@ -1,6 +1,6 @@
 # Modelo de Clasificación para la Predicción de Fuga de Clientes en Marketplaces
 
-![Banner](https://via.placeholder.com/800x300/1a1a2e/e0e0e0?text=Predicci%C3%B3n+de+Fuga+de+Clientes+en+Marketplaces)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AckCCA8nDiYuPqW0XX_U7EonVm_YfNWVNw&s)
 
 ## Autores
 Santiago Suarez Magon, Esteban Alcardy Pacheco
