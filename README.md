@@ -18,6 +18,6 @@ El dataset contiene aproximadamente 100.000 pedidos realizados entre 2016 y 2018
 Clasificación, Aprendizaje Supervisado, Random Forest, Regresión Logística, XGBoost, Feature Engineering, Churn Prediction
 
 ## Enlaces
-- 📂 **Código**: _[Agregar enlace al código]_
+- 📂 **Código**: _[https://colab.research.google.com/drive/1e5QQs63sUL82r9gU0xu7wJj7YmX0TrKp?usp=sharing]_
 - 🎥 **Video**: _[Agregar enlace al video]_
-- 🗂️ **Repositorio**: _[Agregar enlace al repositorio]_
+- 🗂️ **Repositorio**: _[https://github.com/xteban23/prediccion-fuga-clientes]_
