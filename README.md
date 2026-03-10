@@ -3,7 +3,7 @@
 ![Banner](https://www.vtiger.com/blog/wp-content/uploads/2021/01/8-Possibilities-of-CRM-that-will-Change-the-Way-1-e1609848202482-1.png)
 
 ## Autores
-Santiago Suarez Magon, Esteban Alcardy Pacheco
+Santiago Suarez Magon, Esteban Aicardy Pacheco
 
 ## Objetivo
 Desarrollar un modelo de aprendizaje supervisado (clasificación) que identifique clientes con baja probabilidad de retorno basándose en su historial de compras y calificación de pedidos anteriores.
