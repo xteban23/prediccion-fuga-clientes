@@ -44,7 +44,7 @@ Vinculación entre segmentos no supervisados y predicción de churn supervisado.
 | Accuracy / F1 | Supervisado | Rendimiento del clasificador |
 
 ## Enlaces
-- 🎥 **Video IA**: [Ver en Drive](https://drive.google.com/file/d/1EMMJbneSSfFj5awoFUP5GBSeMjDA7Sz4/view?usp=sharing)
+- 🎥 **Video IA**: [Ver en YouTube](https://youtu.be/YS_f8jbtm5w)
 - 📂 **Código (Colab)**: [Abrir notebook](https://colab.research.google.com/drive/1e5QQs63sUL82r9gU0xu7wJj7YmX0TrKp?usp=sharing)
 - 🗂️ **Repositorio**: [GitHub](https://github.com/xteban23/prediccion-fuga-clientes)
 - 🎨 **Presentación**: [Ver en Canva](https://canva.link/qmsm3ad6aqtm3bh)
